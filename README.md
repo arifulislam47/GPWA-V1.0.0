@@ -1,1 +1,24 @@
 # GPWA-V1.0.0
+
+🟢 One-click Git Push GUI tool for Kali/Linux (Dark Mode)
+
+### 🔧 Requirements:
+- Python 3.x
+- customtkinter (auto installed via requirements.txt)
+- Git installed and configured
+
+---
+
+### 🚀 Installation & Usage:
+
+```bash
+git clone https://github.com/yourusername/GitPushWithArif.git
+cd GitPushWithArif
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-venv python3-pip -y
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python GPWA.py
+
+
