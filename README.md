@@ -12,7 +12,9 @@
 
 ---
 
-### 🚀 Installation & Usage:
+### 🚀 Installation & Usage
+
+### Kali Linux Installation:
 
 ```bash
 - git clone https://github.com/arifulislam47/GPWA-V1.0.0.git
@@ -25,8 +27,8 @@
 - python3 GPWA.py
 
 
-### 🪟 Windows Installation
-
+### Windows Installation
+```bash
 - Install [Python](https://www.python.org/) and [Git](https://git-scm.com/)
 - Clone the project:
 - git clone https://github.com/yourusername/GitPushWithArif.git
