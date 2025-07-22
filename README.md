@@ -25,7 +25,7 @@
 - python3 GPWA.py
 
 
-### 🪟 Windows Installation:
+### 🪟 Windows Installation
 
 - Install [Python](https://www.python.org/) and [Git](https://git-scm.com/)
 - Clone the project:
