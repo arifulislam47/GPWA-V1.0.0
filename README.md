@@ -12,7 +12,7 @@
 ### 🚀 Installation & Usage:
 
 ```bash
-git clone https://github.com/yourusername/GitPushWithArif.git
+git clone https://github.com/arifulislam47/GPWA-V1.0.0.git
 cd GitPushWithArif
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-venv python3-pip -y
